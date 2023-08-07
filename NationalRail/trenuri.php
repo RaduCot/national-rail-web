@@ -9,8 +9,8 @@ if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true) {
 // Connect Data
 $host = 'aws.connect.psdb.cloud';
 $dbname = 'nationalrail';
-$username = 'le40l5igln90eexjtwwc';
-$password = 'pscale_pw_v3pqjqy5s2J6lJzDe07J3tntweNUzyXZiX3svILBTnH';
+$username = 'bf8q949w5s7fq7u0k259';
+$password = 'pscale_pw_fwZ58naGaRV2VRPJViTR12pKO9r1a0w81P17VQibQ65';
 
 // Connection
 $dsn = "mysql:host=$host;dbname=$dbname";
